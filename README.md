@@ -1,9 +1,9 @@
 # Olá, me chamo Flávia!
-👋🏼 Tenho 22 anos e sou estudante de **Análise e Desenvlvimento de Sistemas** na [Uninassau](https://www.uninassau.edu.br/) por meio do programa do Porto Digital, [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital). 
+👋🏼 Tenho 22 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na [Uninassau](https://www.uninassau.edu.br/) por meio do programa do Porto Digital, [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital). 
 
 📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos adquiridos na Universidade.
 
-💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvlvimento de soft e hard skills na área mercadológica da tecnologia.
+💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills na área mercadológica da tecnologia.
 
 💬 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/fl%C3%A1via-sousa-amazonas-675201173/) ou [Instagram](https://www.instagram.com/flaviamazonas/).
           
@@ -18,20 +18,7 @@
   <img width='125' heigth='180' 
 src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" />
   <img width='190' heigth='180' src="https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" />
-</div>
+</div> <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamazonas&layout=compact)    
 
-<!--
-**flaviamazonas/flaviamazonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
