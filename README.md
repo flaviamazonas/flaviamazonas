@@ -17,7 +17,6 @@ src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520
   <img width='190' heigth='180' src="https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" />
 </div> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamazonas&layout=compact) <br>
 
 <div align="center"> 
           💬 Você pode entrar em contato comigo pelas redes:
