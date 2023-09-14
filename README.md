@@ -1,7 +1,7 @@
 ## Olá, me chamo Flávia!
-👋🏼 Tenho 22 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na [Uninassau](https://www.uninassau.edu.br/) por meio do programa do Porto Digital, [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital). 
+👋🏼 Tenho 22 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na [Uninassau](https://www.uninassau.edu.br/) por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital). 
 
-📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos.
+📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos na área da tecnologia.
 
 💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills em tecnologia.
           
