@@ -1,10 +1,10 @@
-## Olá, me chamo Flávia!
+## Olá, meu nome é Flávia!
 👋🏼 Tenho 22 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na [Uninassau](https://www.uninassau.edu.br/) por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital). 
 
-📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos na área da tecnologia.
+💻 Sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills.
 
-💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills.
-          
+📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos na área da tecnologia.
+         
 ### Tecnologias presentes no meu cotidiano (e em desenvolvimento):
 <div style="display: inline">
   <img width='100' heigth='180' src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />           
@@ -18,10 +18,10 @@ src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520
 </div> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamazonas&layout=compact) <br>
-
+#
 <div align="center"> 
           💬 Você pode entrar em contato comigo pelas redes:
-</div>
+</div> <br>
 
 <div align="center">
         <a href="https://www.linkedin.com/in/fl%C3%A1via-sousa-amazonas-675201173/"> <img width= '80' height= '' src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
