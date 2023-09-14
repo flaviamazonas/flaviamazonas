@@ -3,7 +3,7 @@
 
 📚 Possuo nível avançado em inglês e tenho realizado cursos extracurriculares, a fim de aprofundar meus conhecimentos na área da tecnologia.
 
-💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills em tecnologia.
+💻 Atualmente sou participante da [Residência Tecnológica - OnBoard](https://residencia.portodigital.org/), programa que promove o desenvolvimento de soft e hard skills.
           
 ### Tecnologias presentes no meu cotidiano (e em desenvolvimento):
 <div style="display: inline">
